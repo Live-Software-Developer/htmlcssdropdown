@@ -1,0 +1,21 @@
+.l-d-flex{
+    display: flex;
+}
+
+.l-h-100{
+    height: 100%;
+}
+
+.l-ms-3{
+    margin-left: calc(var(--spacer) * 2);
+}
+
+.bg-danger{
+    background: red;
+}
+
+.l-custom-class{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
